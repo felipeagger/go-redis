@@ -1,4 +1,4 @@
 # go-redis
 Using Redis &amp; RedisCluster on Golang
 
-Presentation in redis.ppt
+Presentation Slides in Redis.pptx
